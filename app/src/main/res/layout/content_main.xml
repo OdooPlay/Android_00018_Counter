@@ -105,7 +105,7 @@
                 android:ems="10"
                 android:gravity="center_horizontal"
                 android:hint="0"
-                android:inputType="textPersonName|numberSigned"
+                android:inputType="numberSigned"
                 android:text="" />
 
             <CheckBox
